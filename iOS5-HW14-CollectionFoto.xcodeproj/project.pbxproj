@@ -7,23 +7,47 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FF87E27127F5F9F6005FDFF8 /* SectionSecondCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF87E27027F5F9F6005FDFF8 /* SectionSecondCollectionViewCell.swift */; };
+		FF87E27327F6C53A005FDFF8 /* SectionFhirdCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF87E27227F6C539005FDFF8 /* SectionFhirdCollectionViewCell.swift */; };
+		FF87E27527F6C7C4005FDFF8 /* SectionFourthCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF87E27427F6C7C4005FDFF8 /* SectionFourthCollectionViewCell.swift */; };
 		FFBDC60927EED2CE00352C93 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFBDC60827EED2CE00352C93 /* AppDelegate.swift */; };
-		FFBDC60B27EED2CE00352C93 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFBDC60A27EED2CE00352C93 /* SceneDelegate.swift */; };
-		FFBDC60D27EED2CE00352C93 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFBDC60C27EED2CE00352C93 /* ViewController.swift */; };
 		FFBDC61027EED2CE00352C93 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FFBDC60E27EED2CE00352C93 /* Main.storyboard */; };
 		FFBDC61227EED2D100352C93 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FFBDC61127EED2D100352C93 /* Assets.xcassets */; };
 		FFBDC61527EED2D100352C93 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FFBDC61327EED2D100352C93 /* LaunchScreen.storyboard */; };
+		FFBDC62127EED81F00352C93 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFBDC62027EED81F00352C93 /* FirstViewController.swift */; };
+		FFBDC62327EED83100352C93 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFBDC62227EED83100352C93 /* SecondViewController.swift */; };
+		FFBDC62527EED84300352C93 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFBDC62427EED84300352C93 /* ThirdViewController.swift */; };
+		FFBDC62727EED85500352C93 /* FourthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFBDC62627EED85500352C93 /* FourthViewController.swift */; };
+		FFDEBA1627F42BF200D3816D /* SectionCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFDEBA1527F42BF100D3816D /* SectionCollectionView.swift */; };
+		FFDEBA1827F491D600D3816D /* SectionOneCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFDEBA1727F491D600D3816D /* SectionOneCollectionViewCell.swift */; };
+		FFDEBA1A27F49EE000D3816D /* AlbumsHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFDEBA1927F49EE000D3816D /* AlbumsHeaderView.swift */; };
+		FFFC43E127F8A66600225DDE /* SectionFifthCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFFC43E027F8A66600225DDE /* SectionFifthCollectionViewCell.swift */; };
+		FFFC43E327F8BC6500225DDE /* Metrics.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFFC43E227F8BC6500225DDE /* Metrics.swift */; };
+		FFFC43E727F9C6AA00225DDE /* UIColor+Extention.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFFC43E627F9C6AA00225DDE /* UIColor+Extention.swift */; };
+		FFFC43EF27FAA30C00225DDE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFFC43EE27FAA30B00225DDE /* ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FF87E27027F5F9F6005FDFF8 /* SectionSecondCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionSecondCollectionViewCell.swift; sourceTree = "<group>"; };
+		FF87E27227F6C539005FDFF8 /* SectionFhirdCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionFhirdCollectionViewCell.swift; sourceTree = "<group>"; };
+		FF87E27427F6C7C4005FDFF8 /* SectionFourthCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionFourthCollectionViewCell.swift; sourceTree = "<group>"; };
 		FFBDC60527EED2CE00352C93 /* iOS5-HW14-CollectionFoto.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "iOS5-HW14-CollectionFoto.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FFBDC60827EED2CE00352C93 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		FFBDC60A27EED2CE00352C93 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		FFBDC60C27EED2CE00352C93 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		FFBDC60F27EED2CE00352C93 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		FFBDC61127EED2D100352C93 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FFBDC61427EED2D100352C93 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FFBDC61627EED2D100352C93 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FFBDC62027EED81F00352C93 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
+		FFBDC62227EED83100352C93 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		FFBDC62427EED84300352C93 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
+		FFBDC62627EED85500352C93 /* FourthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourthViewController.swift; sourceTree = "<group>"; };
+		FFDEBA1527F42BF100D3816D /* SectionCollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionCollectionView.swift; sourceTree = "<group>"; };
+		FFDEBA1727F491D600D3816D /* SectionOneCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionOneCollectionViewCell.swift; sourceTree = "<group>"; };
+		FFDEBA1927F49EE000D3816D /* AlbumsHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlbumsHeaderView.swift; sourceTree = "<group>"; };
+		FFFC43E027F8A66600225DDE /* SectionFifthCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionFifthCollectionViewCell.swift; sourceTree = "<group>"; };
+		FFFC43E227F8BC6500225DDE /* Metrics.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Metrics.swift; sourceTree = "<group>"; };
+		FFFC43E627F9C6AA00225DDE /* UIColor+Extention.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor+Extention.swift"; sourceTree = "<group>"; };
+		FFFC43EE27FAA30B00225DDE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,15 +80,187 @@
 		FFBDC60727EED2CE00352C93 /* iOS5-HW14-CollectionFoto */ = {
 			isa = PBXGroup;
 			children = (
-				FFBDC60827EED2CE00352C93 /* AppDelegate.swift */,
-				FFBDC60A27EED2CE00352C93 /* SceneDelegate.swift */,
-				FFBDC60C27EED2CE00352C93 /* ViewController.swift */,
-				FFBDC60E27EED2CE00352C93 /* Main.storyboard */,
-				FFBDC61127EED2D100352C93 /* Assets.xcassets */,
-				FFBDC61327EED2D100352C93 /* LaunchScreen.storyboard */,
-				FFBDC61627EED2D100352C93 /* Info.plist */,
+				FFFC43E827F9C76E00225DDE /* Resources */,
+				FFFC43E927F9C77800225DDE /* Sources */,
 			);
 			path = "iOS5-HW14-CollectionFoto";
+			sourceTree = "<group>";
+		};
+		FFBDC61C27EED79F00352C93 /* First */ = {
+			isa = PBXGroup;
+			children = (
+				FFFC43F427FAA4C300225DDE /* MainViewController */,
+			);
+			path = First;
+			sourceTree = "<group>";
+		};
+		FFBDC61D27EED7A500352C93 /* Second */ = {
+			isa = PBXGroup;
+			children = (
+				FFFC43F527FAA4D100225DDE /* MainViewController */,
+			);
+			path = Second;
+			sourceTree = "<group>";
+		};
+		FFBDC61E27EED7AB00352C93 /* Third */ = {
+			isa = PBXGroup;
+			children = (
+				FFFC43FA27FAA51A00225DDE /* CollectionViewCell */,
+				FFFC43F927FAA51300225DDE /* Model */,
+				FFFC43F827FAA50000225DDE /* HeaderView */,
+				FFFC43F627FAA4DD00225DDE /* MainViewController */,
+				FFFC43E227F8BC6500225DDE /* Metrics.swift */,
+			);
+			path = Third;
+			sourceTree = "<group>";
+		};
+		FFBDC61F27EED7B300352C93 /* Fourth */ = {
+			isa = PBXGroup;
+			children = (
+				FFFC43F727FAA4E700225DDE /* MainViewController */,
+			);
+			path = Fourth;
+			sourceTree = "<group>";
+		};
+		FFFC43E827F9C76E00225DDE /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				FFBDC61127EED2D100352C93 /* Assets.xcassets */,
+				FFFC43EA27F9C78E00225DDE /* Configs */,
+				FFFC43EB27F9C79900225DDE /* Storyboards */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		FFFC43E927F9C77800225DDE /* Sources */ = {
+			isa = PBXGroup;
+			children = (
+				FFFC43EC27F9C7C000225DDE /* App */,
+				FFFC43ED27F9C7CA00225DDE /* Scenes */,
+			);
+			path = Sources;
+			sourceTree = "<group>";
+		};
+		FFFC43EA27F9C78E00225DDE /* Configs */ = {
+			isa = PBXGroup;
+			children = (
+				FFBDC61627EED2D100352C93 /* Info.plist */,
+			);
+			path = Configs;
+			sourceTree = "<group>";
+		};
+		FFFC43EB27F9C79900225DDE /* Storyboards */ = {
+			isa = PBXGroup;
+			children = (
+				FFBDC61327EED2D100352C93 /* LaunchScreen.storyboard */,
+				FFBDC60E27EED2CE00352C93 /* Main.storyboard */,
+			);
+			path = Storyboards;
+			sourceTree = "<group>";
+		};
+		FFFC43EC27F9C7C000225DDE /* App */ = {
+			isa = PBXGroup;
+			children = (
+				FFBDC60827EED2CE00352C93 /* AppDelegate.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		FFFC43ED27F9C7CA00225DDE /* Scenes */ = {
+			isa = PBXGroup;
+			children = (
+				FFFC43F327FAA4A500225DDE /* Extention */,
+				FFFC43F227FAA49C00225DDE /* MainViewController */,
+				FFFC43F027FAA47200225DDE /* TabBar */,
+			);
+			path = Scenes;
+			sourceTree = "<group>";
+		};
+		FFFC43F027FAA47200225DDE /* TabBar */ = {
+			isa = PBXGroup;
+			children = (
+				FFBDC61C27EED79F00352C93 /* First */,
+				FFBDC61D27EED7A500352C93 /* Second */,
+				FFBDC61E27EED7AB00352C93 /* Third */,
+				FFBDC61F27EED7B300352C93 /* Fourth */,
+			);
+			path = TabBar;
+			sourceTree = "<group>";
+		};
+		FFFC43F227FAA49C00225DDE /* MainViewController */ = {
+			isa = PBXGroup;
+			children = (
+				FFFC43EE27FAA30B00225DDE /* ViewController.swift */,
+			);
+			path = MainViewController;
+			sourceTree = "<group>";
+		};
+		FFFC43F327FAA4A500225DDE /* Extention */ = {
+			isa = PBXGroup;
+			children = (
+				FFFC43E627F9C6AA00225DDE /* UIColor+Extention.swift */,
+			);
+			path = Extention;
+			sourceTree = "<group>";
+		};
+		FFFC43F427FAA4C300225DDE /* MainViewController */ = {
+			isa = PBXGroup;
+			children = (
+				FFBDC62027EED81F00352C93 /* FirstViewController.swift */,
+			);
+			path = MainViewController;
+			sourceTree = "<group>";
+		};
+		FFFC43F527FAA4D100225DDE /* MainViewController */ = {
+			isa = PBXGroup;
+			children = (
+				FFBDC62227EED83100352C93 /* SecondViewController.swift */,
+			);
+			path = MainViewController;
+			sourceTree = "<group>";
+		};
+		FFFC43F627FAA4DD00225DDE /* MainViewController */ = {
+			isa = PBXGroup;
+			children = (
+				FFBDC62427EED84300352C93 /* ThirdViewController.swift */,
+			);
+			path = MainViewController;
+			sourceTree = "<group>";
+		};
+		FFFC43F727FAA4E700225DDE /* MainViewController */ = {
+			isa = PBXGroup;
+			children = (
+				FFBDC62627EED85500352C93 /* FourthViewController.swift */,
+			);
+			path = MainViewController;
+			sourceTree = "<group>";
+		};
+		FFFC43F827FAA50000225DDE /* HeaderView */ = {
+			isa = PBXGroup;
+			children = (
+				FFDEBA1927F49EE000D3816D /* AlbumsHeaderView.swift */,
+			);
+			path = HeaderView;
+			sourceTree = "<group>";
+		};
+		FFFC43F927FAA51300225DDE /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				FFDEBA1527F42BF100D3816D /* SectionCollectionView.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		FFFC43FA27FAA51A00225DDE /* CollectionViewCell */ = {
+			isa = PBXGroup;
+			children = (
+				FFDEBA1727F491D600D3816D /* SectionOneCollectionViewCell.swift */,
+				FF87E27027F5F9F6005FDFF8 /* SectionSecondCollectionViewCell.swift */,
+				FF87E27227F6C539005FDFF8 /* SectionFhirdCollectionViewCell.swift */,
+				FF87E27427F6C7C4005FDFF8 /* SectionFourthCollectionViewCell.swift */,
+				FFFC43E027F8A66600225DDE /* SectionFifthCollectionViewCell.swift */,
+			);
+			path = CollectionViewCell;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,9 +334,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FFBDC60D27EED2CE00352C93 /* ViewController.swift in Sources */,
+				FFFC43EF27FAA30C00225DDE /* ViewController.swift in Sources */,
+				FF87E27127F5F9F6005FDFF8 /* SectionSecondCollectionViewCell.swift in Sources */,
+				FFBDC62727EED85500352C93 /* FourthViewController.swift in Sources */,
+				FFDEBA1A27F49EE000D3816D /* AlbumsHeaderView.swift in Sources */,
+				FFBDC62327EED83100352C93 /* SecondViewController.swift in Sources */,
+				FF87E27527F6C7C4005FDFF8 /* SectionFourthCollectionViewCell.swift in Sources */,
+				FF87E27327F6C53A005FDFF8 /* SectionFhirdCollectionViewCell.swift in Sources */,
+				FFFC43E127F8A66600225DDE /* SectionFifthCollectionViewCell.swift in Sources */,
+				FFBDC62127EED81F00352C93 /* FirstViewController.swift in Sources */,
+				FFBDC62527EED84300352C93 /* ThirdViewController.swift in Sources */,
+				FFDEBA1627F42BF200D3816D /* SectionCollectionView.swift in Sources */,
+				FFFC43E327F8BC6500225DDE /* Metrics.swift in Sources */,
+				FFFC43E727F9C6AA00225DDE /* UIColor+Extention.swift in Sources */,
 				FFBDC60927EED2CE00352C93 /* AppDelegate.swift in Sources */,
-				FFBDC60B27EED2CE00352C93 /* SceneDelegate.swift in Sources */,
+				FFDEBA1827F491D600D3816D /* SectionOneCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
